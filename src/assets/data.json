@@ -1,0 +1,1815 @@
+{
+    "aetheryteCoordinates": {},
+    "allLocations": [
+        "None",
+        "Limsa Lominsa",
+        "Middle La Noscea",
+        "Lower La Noscea",
+        "Eastern La Noscea",
+        "Western La Noscea",
+        "Upper La Noscea",
+        "Outer La Noscea",
+        "Wolves' Den",
+        "Gridania",
+        "Central Shroud",
+        "East Shroud",
+        "South Shroud",
+        "North Shroud",
+        "Ul'dah",
+        "Western Thanalan",
+        "Central Thanalan",
+        "Eastern Thanalan",
+        "Southern Thanalan",
+        "Northern Thanalan",
+        "Gold Saucer",
+        "Ishgard",
+        "Coerthas Central Highlands",
+        "Coerthas Western Highlands",
+        "The Sea of Clouds",
+        "Azys Lla",
+        "Idyllshire",
+        "The Dravanian Forelands",
+        "The Churning Mists",
+        "Rhalgr's Reach",
+        "The Fringes",
+        "The Peaks",
+        "The Lochs",
+        "Kugane",
+        "The Ruby Sea",
+        "Yanxia",
+        "The Azim Steppe",
+        "The Doman Enclave",
+        "Radz-at-Han",
+        "Thavnair",
+        "Garlemald",
+        "The Crystarium",
+        "Eulmore",
+        "Lakeland",
+        "Kholusia",
+        "Amh Araeng",
+        "Il Mheg",
+        "The Rak'tika Greatwood",
+        "The Tempest",
+        "Mor Dhona",
+        "Old Sharlayan",
+        "Labyrinthos",
+        "Mare Lamentorum",
+        "Ultima Thule",
+        "Elpis"
+    ],
+    "bookLocations": {
+        "Skyfire I": {
+            "Coerthas Central Highlands": {
+                "Giant Seps": {
+                    "x": 8.7,
+                    "y": 12,
+                    "type": "fate"
+                },
+                "Giant Loggers": {
+                    "x": 14,
+                    "y": 26.5,
+                    "type": "monster"
+                },
+                "An Imp Mobile": {
+                    "x": 11.9,
+                    "y": 16.8,
+                    "type": "leve",
+                    "leve-type": "imposter",
+                    "leve-giver": "Maelstrom"
+                }
+            },
+            "Mor Dhona": {
+                "Daring Harriers": {
+                    "x": 16.7,
+                    "y": 15.5,
+                    "type": "monster"
+                },
+                "5th cohort Vanguards": {
+                    "x": 10.6,
+                    "y": 13.2,
+                    "type": "monster"
+                },
+                "The Awry Salvages": {
+                    "x": 30.7,
+                    "y": 12.1,
+                    "type": "leve",
+                    "leve-type": "defend",
+                    "leve-giver": "Adder"
+                }
+            },
+            "Western La Noscea": {
+                "Shoalspine Sahagins": {
+                    "x": 17.5,
+                    "y": 16.5,
+                    "type": "monster"
+                }
+            },
+            "Western Thanalan": {
+                "4th Cohort Hoplomachi": {
+                    "x": 10,
+                    "y": 6,
+                    "type": "monster"
+                }
+            },
+            "Northern Thanalan": {
+                "Basilisk": {
+                    "x": 22,
+                    "y": 26,
+                    "type": "monster"
+                },
+                "Necrologos: Pale Oblation": {
+                    "x": 22,
+                    "y": 29.5,
+                    "type": "leve",
+                    "leve-type": "necrologos"
+                }
+            },
+            "Southern Thanalan": {
+                "Zanr'ak Pugilists": {
+                    "x": 19,
+                    "y": 25,
+                    "type": "monster"
+                }
+            },
+            "Outer La Noscea": {
+                "Synthetic Doblyns": {
+                    "x": 24,
+                    "y": 7,
+                    "type": "monster"
+                },
+                "Make It Rain": {
+                    "x": 25.4,
+                    "y": 18,
+                    "type": "fate"
+                }
+            },
+            "East Shroud": {
+                "Milkroot Clusters": {
+                    "x": 23,
+                    "y": 18,
+                    "type": "monster"
+                },
+                "The Enmity of My Enemy": {
+                    "x": 27.5,
+                    "y": 21.5,
+                    "type": "fate",
+                    "notes": "This FATE only spawns after completion of the requisite fate 'The Enemy of my Enemy' in the same general vicinity. That FATE requires you to talk to an NPC to start"
+                }
+            },
+            "Eastern La Noscea": {
+                "2nd Cohort Hoplomachi": {
+                    "x": 29.5,
+                    "y": 20,
+                    "type": "monster"
+                }
+            }
+        },
+        "Skyfire II": {
+            "Mor Dhona": {
+                "Raging Harriers": {
+                    "x": 17,
+                    "y": 17,
+                    "type": "monster"
+                },
+                "The Museum is Closed": {
+                    "x": 30,
+                    "y": 12,
+                    "type": "leve",
+                    "leve-giver": "Flames",
+                    "leve-type": "defend"
+                }
+            },
+            "Coerthas Central Highlands": {
+                "Biasts": {
+                    "x": 16,
+                    "y": 30,
+                    "type": "monster"
+                },
+                "Natalan Boldwings": {
+                    "x": 33,
+                    "y": 18,
+                    "type": "monster"
+                },
+                "Yellow is the New Black": {
+                    "x": 11,
+                    "y": 16,
+                    "type": "leve",
+                    "leve-giver": "Adder",
+                    "leve-type": "fixed-time-limit"
+                }
+            },
+            "North Shroud": {
+                "Dullahans": {
+                    "x": 22.3,
+                    "y": 20,
+                    "type": "monster"
+                },
+                "Air Supply": {
+                    "x": 20,
+                    "y": 19.5,
+                    "type": "fate"
+                }
+            },
+            "Outer La Noscea": {
+                "U'ghamaro Golems": {
+                    "x": 27.5,
+                    "y": 7.3,
+                    "type": "monster"
+                }
+            },
+            "Western La Noscea": {
+                "Shoaltooth Sahagin": {
+                    "x": 17,
+                    "y": 17,
+                    "type": "monster"
+                },
+                "Shelfscale Reavers": {
+                    "x": 13,
+                    "y": 17,
+                    "type": "monster"
+                },
+                "Breaching South Tidegate": {
+                    "x": 18,
+                    "y": 22,
+                    "type": "fate",
+                    "notes": "This FATE only spawns after completion of the requisite FATE 'Gauging South Tidegate'"
+                }
+            },
+            "Southern Thanalan": {
+                "Tempered Gladiators": {
+                    "x": 21.5,
+                    "y": 19.6,
+                    "type": "monster"
+                },
+                "Zahar'ak Archers": {
+                    "x": 25,
+                    "y": 21,
+                    "type": "monster"
+                },
+                "Heroes of the 2nd": {
+                    "x": 21,
+                    "y": 16,
+                    "type": "fate"
+                }
+            },
+            "Northern Thanalan": {
+                "Don't Forget to Cry": {
+                    "x": 22,
+                    "y": 29,
+                    "type": "leve",
+                    "leve-type": "key-item-search"
+                }
+            },
+            "East Shroud": {
+                "Sylpheed Sighs": {
+                    "x": 29,
+                    "y": 17,
+                    "type": "monster"
+                }
+            }
+        },
+        "Netherfire I": {
+            "Mor Dhona": {
+                "Hexing Harriers": {
+                    "x": 16,
+                    "y": 15,
+                    "type": "monster"
+                },
+                "Gigas Bonzes": {
+                    "x": 27,
+                    "y": 9,
+                    "type": "monster"
+                },
+                "Another Notch on the Torch": {
+                    "x": 31,
+                    "y": 5,
+                    "type": "fate"
+                },
+                "One Big Problem Solved": {
+                    "x": 30,
+                    "y": 12,
+                    "type": "leve",
+                    "leve-giver": "Maelstrom",
+                    "leve-type": "fixed-time-limit"
+                }
+            },
+            "Coerthas Central Highlands": {
+                "Giant Luggers": {
+                    "x": 13,
+                    "y": 27,
+                    "type": "monster"
+                },
+                "If You Put It That Way": {
+                    "x": 11,
+                    "y": 16,
+                    "type": "leve",
+                    "leve-giver": "Flames",
+                    "leve-type": "boss"
+                }
+            },
+            "South Shroud": {
+                "Wild Hogs": {
+                    "x": 29,
+                    "y": 24,
+                    "type": "monster"
+                }
+            },
+            "East Shroud": {
+                "Sylpheed Screeches": {
+                    "x": 28,
+                    "y": 15,
+                    "type": "monster"
+                },
+                "Everything's Better": {
+                    "x": 23,
+                    "y": 14,
+                    "type": "fate"
+                }
+            },
+            "Outer La Noscea": {
+                "U'Ghamaro Roundsmen": {
+                    "x": 23,
+                    "y": 7,
+                    "type": "monster"
+                }
+            },
+            "Western La Noscea": {
+                "Shelfclaw Reavers": {
+                    "x": 13,
+                    "y": 17,
+                    "type": "monster"
+                }
+            },
+            "Eastern La Noscea": {
+                "2nd Cohort Laquearii": {
+                    "x": 29,
+                    "y": 20,
+                    "type": "monster"
+                }
+            },
+            "Southern Thanalan": {
+                "Zahar'ak Fortune Tellers": {
+                    "x": 29,
+                    "y": 19,
+                    "type": "monster"
+                },
+                "Tempered Orator": {
+                    "x": 21,
+                    "y": 20,
+                    "type": "monster"
+                },
+                "Return to Cinder": {
+                    "x": 24,
+                    "y": 26,
+                    "type": "fate"
+                }
+            },
+            "Northern Thanalan": {
+                "Circling the Ceruleum": {
+                    "x": 22,
+                    "y": 29,
+                    "type": "leve",
+                    "leve-type": "visit-locations"
+                }
+            }
+        },
+        "Skyfall I": {
+            "Mor Dhona": {
+                "Mudpuppies": {
+                    "x": 14,
+                    "y": 11,
+                    "type": "monster"
+                },
+                "Lake Cobras": {
+                    "x": 26,
+                    "y": 12,
+                    "type": "monster"
+                },
+                "Go Home to Mama": {
+                    "x": 30,
+                    "y": 12,
+                    "type": "leve",
+                    "leve-giver": "Maelstrom",
+                    "leve-type": "defend"
+                }
+            },
+            "Coerthas Central Highlands": {
+                "Giant Readers": {
+                    "x": 12,
+                    "y": 25,
+                    "type": "monster"
+                },
+                "Bellyful": {
+                    "x": 34,
+                    "y": 14,
+                    "type": "fate"
+                },
+                "Necrologos: Whispers of the Gem": {
+                    "x": 12,
+                    "y": 16,
+                    "type": "leve",
+                    "leve-giver": "normal",
+                    "leve-type": "necrologos"
+                }
+            },
+            "Western La Noscea": {
+                "Shelfscale Sahagin": {
+                    "x": 17,
+                    "y": 19,
+                    "type": "monster"
+                },
+                "Sea Wasps": {
+                    "x": 14,
+                    "y": 17,
+                    "type": "monster"
+                },
+                "King's Justice": {
+                    "x": 14,
+                    "y": 34,
+                    "type": "fate"
+                }
+            },
+            "Outer La Noscea": {
+                "U'Ghamaro Quarrymen": {
+                    "x": 23,
+                    "y": 7,
+                    "type": "monster"
+                }
+            },
+            "Eastern La Noscea": {
+                "2nd Cohort Eques": {
+                    "x": 29,
+                    "y": 21,
+                    "type": "monster"
+                }
+            },
+            "Northern Thanalan": {
+                "Magitek Vanguards": {
+                    "x": 17,
+                    "y": 17,
+                    "type": "monster"
+                },
+                "Circling the Ceruleum": {
+                    "x": 22,
+                    "y": 29,
+                    "type": "leve",
+                    "leve-type": "visit-locations"
+                }
+            },
+            "Southern Thanalan": {
+                "Amalj'aa Lancers": {
+                    "x": 20,
+                    "y": 20,
+                    "type": "monster"
+                }
+            },
+            "East Shroud": {
+                "Sylphlands Sentinel": {
+                    "x": 20,
+                    "y": 10,
+                    "type": "monster"
+                }
+            },
+            "Eastern Thanalan": {
+                "Quartz Coupling": {
+                    "x": 26,
+                    "y": 24,
+                    "type": "fate"
+                }
+            }
+        },
+        "Skyfall II": {
+            "Mor Dhona": {
+                "Gigas Bhikkus": {
+                    "x": 33,
+                    "y": 14,
+                    "type": "monster"
+                },
+                "5th Cohort Hoplomachi": {
+                    "x": 12,
+                    "y": 12,
+                    "type": "monster"
+                },
+                "Black and Nburu": {
+                    "x": 16,
+                    "y": 14,
+                    "type": "fate"
+                },
+                "Get Off Our Lake": {
+                    "x": 30,
+                    "y": 12,
+                    "type": "leve",
+                    "leve-giver": "Adder",
+                    "leve-type": "fixed-time-limit"
+                }
+            },
+            "Coerthas Central Highlands": {
+                "Natalan Watchwolves": {
+                    "x": 31,
+                    "y": 17,
+                    "type": "monster"
+                },
+                "The Area's a Bit Sketchy": {
+                    "x": 11,
+                    "y": 16,
+                    "type": "leve",
+                    "leve-giver": "normal",
+                    "leve-type": "visit-locations"
+                }
+            },
+            "East Shroud": {
+                "Sylph Bonnet": {
+                    "x": 26,
+                    "y": 13,
+                    "type": "monster"
+                },
+                "Breaking Dawn": {
+                    "x": 32,
+                    "y": 14,
+                    "type": "fate"
+                }
+            },
+            "South Shroud": {
+                "Ked": {
+                    "x": 31.6,
+                    "y": 24.3,
+                    "type": "monster"
+                }
+            },
+            "Western Thanalan": {
+                "4th Cohort Laquearii": {
+                    "x": 10,
+                    "y": 6,
+                    "type": "monster"
+                }
+            },
+            "Southern Thanalan": {
+                "Iron Tortoise": {
+                    "x": 16,
+                    "y": 14,
+                    "type": "monster"
+                }
+            },
+            "Northern Thanalan": {
+                "Someone's in the Doghouse": {
+                    "x": 22,
+                    "y": 29,
+                    "type": "leve",
+                    "leve-type": "escort"
+                }
+            },
+            "Western La Noscea": {
+                "Shelfeye Reaver": {
+                    "x": 13,
+                    "y": 17,
+                    "type": "monster"
+                },
+                "Sapsa Shelfscale": {
+                    "x": 14,
+                    "y": 14,
+                    "type": "monster"
+                },
+                "Breaching North Tidegate": {
+                    "x": 21,
+                    "y": 19,
+                    "type": "fate",
+                    "notes": "This FATE only spawns after completion of the requisite FATE 'Gauging North Tidegate'"
+                }
+            },
+            "Outer La Noscea": {
+                "U'Ghamaro Bedesmen": {
+                    "x": 23,
+                    "y": 8,
+                    "type": "monster"
+                }
+            }
+        },
+        "Netherfall I": {
+            "Southern Thanalan": {
+                "Amalj'aa Brigand": {
+                    "x": "20",
+                    "y": "21",
+                    "type": "monster"
+                }
+            },
+            "Western Thanalan": {
+                "4th Cohort Secutor": {
+                    "x": "9",
+                    "y": "6",
+                    "type": "monster"
+                }
+            },
+            "Mor Dhona": {
+                "5th Cohort Laquearius": {
+                    "x": "12",
+                    "y": "12",
+                    "type": "monster"
+                },
+                "Gigas Sozu": {
+                    "x": "29",
+                    "y": "14",
+                    "type": "monster"
+                },
+                "Who Writes History": {
+                    "x": "30",
+                    "y": "12",
+                    "type": "leve",
+                    "leve-giver": "Flames"
+                }
+            },
+            "Coerthas Central Highlands": {
+                "Snow Wolf": {
+                    "x": "16",
+                    "y": "31.6",
+                    "type": "monster"
+                },
+                "The Four Winds": {
+                    "x": "34",
+                    "y": "20",
+                    "type": "fate"
+                },
+                "Got a Gut Feeling about This": {
+                    "x": "12",
+                    "y": "16",
+                    "type": "leve",
+                    "leve-giver": "normal"
+                }
+            },
+            "Western La Noscea": {
+                "Sapsa Shelfclaw": {
+                    "x": "14",
+                    "y": "15",
+                    "type": "monster"
+                }
+            },
+            "Outer La Noscea": {
+                "U'Ghamaro Priest": {
+                    "x": "22",
+                    "y": "6",
+                    "type": "monster"
+                }
+            },
+            "East Shroud": {
+                "Violet Screech": {
+                    "x": "24",
+                    "y": "14",
+                    "type": "monster"
+                }
+            },
+            "North Shroud": {
+                "Ixali Windtalon": {
+                    "x": "19",
+                    "y": "19",
+                    "type": "monster"
+                },
+                "Lesser Kalong": {
+                    "x": "21",
+                    "y": "20",
+                    "type": "monster"
+                },
+                "Rude Awakening": {
+                    "x": "22",
+                    "y": "20",
+                    "type": "fate"
+                }
+            },
+            "Northern Thanalan": {
+                "The Ceruleum Road": {
+                    "x": "21",
+                    "y": "29",
+                    "type": "fate"
+                },
+                "Subduing the Subprime": {
+                    "x": "22",
+                    "y": "29",
+                    "type": "leve",
+                    "leve-giver": "normal"
+                }
+            }
+        },
+        "Skywind I": {
+            "Mor Dhona": {
+                "Hippogryph": {
+                    "x": "33",
+                    "y": "11",
+                    "type": "monster"
+                },
+                "5th Cohort Eques": {
+                    "x": "12",
+                    "y": "12",
+                    "type": "monster"
+                },
+                "Good to Be Bud": {
+                    "x": "13",
+                    "y": "12",
+                    "type": "fate"
+                },
+                "Big, Bad Idea": {
+                    "x": "29",
+                    "y": "12",
+                    "type": "leve",
+                    "leve-giver": "normal"
+                }
+            },
+            "Coerthas Central Highlands": {
+                "Natalan Windtalon": {
+                    "x": "34",
+                    "y": "22",
+                    "type": "monster"
+                },
+                "Someone's Got a Big Mouth": {
+                    "x": "11",
+                    "y": "16",
+                    "type": "leve",
+                    "leve-giver": "Maelstrom"
+                }
+            },
+            "Western La Noscea": {
+                "Sapsa Elbst": {
+                    "x": "17",
+                    "y": "15",
+                    "type": "monster"
+                },
+                "Trenchtooth Sahagin": {
+                    "x": "20",
+                    "y": "20",
+                    "type": "monster"
+                }
+            },
+            "Outer La Noscea": {
+                "Elite Roundsman": {
+                    "x": "25",
+                    "y": "8",
+                    "type": "monster"
+                }
+            },
+            "Eastern La Noscea": {
+                "2nd Cohort Secutor": {
+                    "x": "25",
+                    "y": "21",
+                    "type": "monster"
+                }
+            },
+            "Northern Thanalan": {
+                "Ahriman": {
+                    "x": "24",
+                    "y": "21",
+                    "type": "monster"
+                },
+                "Subduing the Subprime": {
+                    "x": "22",
+                    "y": "29",
+                    "type": "leve",
+                    "leve-giver": "normal"
+                }
+            },
+            "Southern Thanalan": {
+                "Amalj'aa Thaumaturge": {
+                    "x": "18",
+                    "y": "19",
+                    "type": "monster"
+                }
+            },
+            "East Shroud": {
+                "Sylpheed Snarl": {
+                    "x": "28",
+                    "y": "17",
+                    "type": "monster"
+                }
+            },
+            "Upper La Noscea": {
+                "Surprise": {
+                    "x": "26",
+                    "y": "18",
+                    "type": "fate"
+                }
+            },
+            "Central Shroud": {
+                "In Spite of It All": {
+                    "x": "11",
+                    "y": "18",
+                    "type": "fate"
+                }
+            }
+        },
+        "Skywind II": {
+            "Mor Dhona": {
+                "Gigas Shramana": {
+                    "x": "28",
+                    "y": "13",
+                    "type": "monster"
+                },
+                "5th Cohort Signifer": {
+                    "x": "10",
+                    "y": "13",
+                    "type": "monster"
+                },
+                "Put Your Stomp on It": {
+                    "x": "29",
+                    "y": "12",
+                    "type": "leve",
+                    "leve-giver": "normal"
+                }
+            },
+            "North Shroud": {
+                "Watchwolf": {
+                    "x": "19",
+                    "y": "19",
+                    "type": "monster"
+                }
+            },
+            "East Shroud": {
+                "Dreamtoad": {
+                    "x": "26",
+                    "y": "18",
+                    "type": "monster"
+                }
+            },
+            "Southern Thanalan": {
+                "Zahar'ak Battle Drake": {
+                    "x": "30",
+                    "y": "19",
+                    "type": "monster"
+                },
+                "Amalj'aa Archer": {
+                    "x": "20",
+                    "y": "22",
+                    "type": "monster"
+                },
+                "Taken": {
+                    "x": "18",
+                    "y": "20",
+                    "type": "fate"
+                }
+            },
+            "Western Thanalan": {
+                "4th Cohort Signifer": {
+                    "x": "11",
+                    "y": "7",
+                    "type": "monster"
+                }
+            },
+            "Outer La Noscea": {
+                "Elite Priest": {
+                    "x": "24",
+                    "y": "7",
+                    "type": "monster"
+                }
+            },
+            "Western La Noscea": {
+                "Sapsa Shelftooth": {
+                    "x": "15",
+                    "y": "15",
+                    "type": "monster"
+                }
+            },
+            "Coerthas Central Highlands": {
+                "Natalan Fogcaller": {
+                    "x": "32",
+                    "y": "18",
+                    "type": "monster"
+                },
+                "Tower of Power": {
+                    "x": "10.5",
+                    "y": "28.6",
+                    "type": "fate"
+                },
+                "The Bloodhounds of Coerthas": {
+                    "x": "11",
+                    "y": "16",
+                    "type": "leve",
+                    "leve-giver": "Adder"
+                }
+            },
+            "South Shroud": {
+                "What Gored Before": {
+                    "x": "32",
+                    "y": "25",
+                    "type": "fate"
+                }
+            },
+            "Northern Thanalan": {
+                "Necrologos Pale Oblation": {
+                    "x": "22",
+                    "y": "29",
+                    "type": "leve",
+                    "leve-giver": "normal"
+                }
+            }
+        },
+        "Skyearth I": {
+            "East Shroud": {
+                "Violet Sigh": {
+                    "x": "24",
+                    "y": "13",
+                    "type": "monster"
+                }
+            },
+            "North Shroud": {
+                "Ixali Boldwing": {
+                    "x": "21",
+                    "y": "20",
+                    "type": "monster"
+                }
+            },
+            "Southern Thanalan": {
+                "Amalj'aa Scavenger": {
+                    "x": "20",
+                    "y": "21",
+                    "type": "monster"
+                },
+                "Zahar'ak Pugilist": {
+                    "x": "23",
+                    "y": "21",
+                    "type": "monster"
+                }
+            },
+            "Western La Noscea": {
+                "Axolotl": {
+                    "x": "14",
+                    "y": "15",
+                    "type": "monster"
+                }
+            },
+            "Outer La Noscea": {
+                "Elite Quarryman": {
+                    "x": "24",
+                    "y": "7",
+                    "type": "monster"
+                },
+                "Schism": {
+                    "x": "23",
+                    "y": "16",
+                    "type": "fate"
+                }
+            },
+            "Eastern La Noscea": {
+                "2nd Cohort Signifer": {
+                    "x": "30",
+                    "y": "20",
+                    "type": "monster"
+                }
+            },
+            "Coerthas Central Highlands": {
+                "Natalan Swiftbeak": {
+                    "x": "31",
+                    "y": "17",
+                    "type": "monster"
+                },
+                "The Taste of Fear": {
+                    "x": "4",
+                    "y": "21",
+                    "type": "fate"
+                },
+                "No Big Whoop": {
+                    "x": "11",
+                    "y": "16",
+                    "type": "leve",
+                    "leve-giver": "Flames"
+                }
+            },
+            "Mor Dhona": {
+                "5th Cohort Secutor": {
+                    "x": "10",
+                    "y": "13",
+                    "type": "monster"
+                },
+                "Hapalit": {
+                    "x": "30",
+                    "y": "5",
+                    "type": "monster"
+                },
+                "Necrologos The Liminal Ones": {
+                    "x": "29",
+                    "y": "12",
+                    "type": "leve",
+                    "leve-giver": "normal"
+                }
+            },
+            "Eastern Thanalan": {
+                "The Big Bagoly Theory": {
+                    "x": "30",
+                    "y": "25",
+                    "type": "fate"
+                }
+            },
+            "Northern Thanalan": {
+                "Don't Forget to Cry": {
+                    "x": "22",
+                    "y": "29",
+                    "type": "leve",
+                    "leve-giver": "normal"
+                }
+            }
+        }
+    },
+    "dungeons":{
+        "Skyfire I": [
+            "Tam-Tara Deepcroft",
+            "The Stone Vigil",
+            "The Lost City of Amdapor"
+        ],
+        "Skyfire II":[
+            "Brayflox's Longstop",
+            "The Wanderer's Palace",
+            "Copperbell Mines (Hard)"
+        ],
+        "Netherfire I":[
+            "The Sunken Temple of Qarn",
+            "Haukke Manor (Hard)",
+            "Halatali (Hard)"
+        ],
+        "Skyfall I":[
+            "Copperbell Mines",
+            "Dzemael Darkhold",
+            "Brayflox's Longstop"
+        ],
+        "Skyfall II":[
+            "The Thousand Maws of Toto-Rak",
+            "Amdapor Keep",
+            "Haukke Manor (Hard)"
+        ],
+        "Netherfall I":[
+            "Cutter's Cry",
+            "Pharos Sirius",
+            "The Lost City of Amdapor"
+        ],
+        "Skywind I":[
+            "Sastasha",
+            "The Aurum Vale",
+            "Halatali (Hard)"
+        ],
+        "Skywind II":[
+            "Haukke Manor",
+            "Copperbell Mines (Hard)",
+            "Brayflox's Longstop (Hard)"
+        ],
+        "Skyearth I":[
+            "Halatali",
+            "Ampdapor Keep",
+            "Pharos Sirius"
+        ]
+    },
+    "teleportCosts": {
+        "Disclaimers": [
+            "Values are based on 'Reduced Rates II' being active",
+            "Values from my favorite locations with one aetheryte was calculated, but not tested (Mor Dhona, North Shroud, Doman Enclave)",
+            "Limsa Lominsa is my free teleport, and was not included in the data"
+        ],
+        "Eastern La Noscea": {
+            "Middle La Noscea": 130,
+            "Lower La Noscea": 130,
+            "Western La Noscea": 151,
+            "Upper La Noscea": 116,
+            "Outer La Noscea": 126,
+            "Wolves' Den": 203,
+            "Gridania": 352,
+            "Central Shroud": 342,
+            "East Shroud": 398,
+            "South Shroud": 305,
+            "North Shroud": 298,
+            "Ul'dah": 291,
+            "Western Thanalan": 257,
+            "Central Thanalan": 242,
+            "Eastern Thanalan": 317,
+            "Southern Thanalan": 326,
+            "Northern Thanalan": 224,
+            "Gold Saucer": 330,
+            "Ishgard": 278,
+            "Coerthas Central Highlands": 229,
+            "Coerthas Western Highlands": 247,
+            "The Sea of Clouds": 366,
+            "Azys Lla": 345,
+            "Idyllshire": 309,
+            "The Dravanian Forelands": 284,
+            "The Churning Mists": 354,
+            "Rhalgr's Reach": 504,
+            "The Fringes": 481,
+            "The Peaks": 551,
+            "The Lochs": 562,
+            "Kugane": 1009,
+            "The Ruby Sea": 975,
+            "Yanxia": 909,
+            "The Azim Steppe": 903,
+            "The Doman Enclave": 892,
+            "Radz-at-Han": 763,
+            "Thavnair": 735,
+            "Garlemald": 892,
+            "The Crystarium": 348,
+            "Eulmore": 520,
+            "Lakeland": 390,
+            "Kholusia": 485,
+            "Amh Araeng": 445,
+            "Il Mheg": 424,
+            "The Rak'tika Greatwood": 394,
+            "The Tempest": 604,
+            "Mor Dhona": 208,
+            "Old Sharlayan": 707,
+            "Labyrinthos": 743,
+            "Mare Lamentorum": 1032,
+            "Ultima Thule": 883,
+            "Elpis": 488
+        },
+        "Western La Noscea": {
+            "Middle La Noscea": 109,
+            "Lower La Noscea": 161,
+            "Eastern La Noscea": 151,
+            "Upper La Noscea": 119,
+            "Outer La Noscea": 144,
+            "Wolves' Den": 145,
+            "Gridania": 419,
+            "Central Shroud": 415,
+            "East Shroud": 471,
+            "South Shroud": 382,
+            "North Shroud": 364,
+            "Ul'dah": 364,
+            "Western Thanalan": 326,
+            "Central Thanalan": 322,
+            "Eastern Thanalan": 399,
+            "Southern Thanalan": 399,
+            "Northern Thanalan": 306,
+            "Gold Saucer": 398,
+            "Ishgard": 331,
+            "Coerthas Central Highlands": 289,
+            "Coerthas Western Highlands": 277,
+            "The Sea of Clouds": 412,
+            "Azys Lla": 385,
+            "Idyllshire": 263,
+            "The Dravanian Forelands": 287,
+            "The Churning Mists": 335,
+            "Rhalgr's Reach": 582,
+            "The Fringes": 562,
+            "The Peaks": 629,
+            "The Lochs": 648,
+            "Kugane": 1054,
+            "The Ruby Sea": 1019,
+            "Yanxia": 952,
+            "The Azim Steppe": 944,
+            "The Doman Enclave": 938,
+            "Radz-at-Han": 819,
+            "Thavnair": 791,
+            "Garlemald": 925,
+            "The Crystarium": 427,
+            "Eulmore": 599,
+            "Lakeland": 469,
+            "Kholusia": 564,
+            "Amh Araeng": 523,
+            "Il Mheg": 503,
+            "The Rak'tika Greatwood": 473,
+            "The Tempest": 683,
+            "Mor Dhona": 286,
+            "Old Sharlayan": 653,
+            "Labyrinthos": 714,
+            "Mare Lamentorum": 1065,
+            "Ultima Thule": 854,
+            "Elpis": 567
+        },
+        "Upper La Noscea": {
+            "Middle La Noscea": 125,
+            "Lower La Noscea": 158,
+            "Eastern La Noscea": 116,
+            "Western La Noscea": 119,
+            "Outer La Noscea": 98,
+            "Wolves' Den": 189,
+            "Gridania": 370,
+            "Central Shroud": 366,
+            "East Shroud": 422,
+            "South Shroud": 335,
+            "North Shroud": 314,
+            "Ul'dah": 338,
+            "Western Thanalan": 303,
+            "Central Thanalan": 288,
+            "Eastern Thanalan": 358,
+            "Southern Thanalan": 373,
+            "Northern Thanalan": 264,
+            "Gold Saucer": 376,
+            "Ishgard": 279,
+            "Coerthas Central Highlands": 240,
+            "Coerthas Western Highlands": 232,
+            "The Sea of Clouds": 362,
+            "Azys Lla": 337,
+            "Idyllshire": 261,
+            "The Dravanian Forelands": 254,
+            "The Churning Mists": 315,
+            "Rhalgr's Reach": 523,
+            "The Fringes": 503,
+            "The Peaks": 570,
+            "The Lochs": 589,
+            "Kugane": 1025,
+            "The Ruby Sea": 990,
+            "Yanxia": 923,
+            "The Azim Steppe": 914,
+            "The Doman Enclave": 908,
+            "Radz-at-Han": 786,
+            "Thavnair": 759,
+            "Garlemald": 893,
+            "The Crystarium": 380,
+            "Eulmore": 553,
+            "Lakeland": 422,
+            "Kholusia": 518,
+            "Amh Araeng": 477,
+            "Il Mheg": 457,
+            "The Rak'tika Greatwood": 427,
+            "The Tempest": 637,
+            "Mor Dhona": 240,
+            "Old Sharlayan": 653,
+            "Labyrinthos": 713,
+            "Mare Lamentorum": 1033,
+            "Ultima Thule": 853,
+            "Elpis": 520
+        },
+        "Outer La Noscea": {
+            "Middle La Noscea": 153,
+            "Lower La Noscea": 180,
+            "Eastern La Noscea": 126,
+            "Western La Noscea": 144,
+            "Upper La Noscea": 98,
+            "Wolves' Den": 217,
+            "Gridania": 346,
+            "Central Shroud": 345,
+            "East Shroud": 399,
+            "South Shroud": 317,
+            "North Shroud": 288,
+            "Ul'dah": 340,
+            "Western Thanalan": 309,
+            "Central Thanalan": 286,
+            "Eastern Thanalan": 347,
+            "Southern Thanalan": 375,
+            "Northern Thanalan": 254,
+            "Gold Saucer": 382,
+            "Ishgard": 248,
+            "Coerthas Central Highlands": 214,
+            "Coerthas Western Highlands": 200,
+            "The Sea of Clouds": 331,
+            "Azys Lla": 305,
+            "Idyllshire": 249,
+            "The Dravanian Forelands": 226,
+            "The Churning Mists": 293,
+            "Rhalgr's Reach": 493,
+            "The Fringes": 474,
+            "The Peaks": 540,
+            "The Lochs": 562,
+            "Kugane": 1012,
+            "The Ruby Sea": 977,
+            "Yanxia": 910,
+            "The Azim Steppe": 899,
+            "The Doman Enclave": 896,
+            "Radz-at-Han": 774,
+            "Thavnair": 748,
+            "Garlemald": 874,
+            "The Crystarium": 365,
+            "Eulmore": 537,
+            "Lakeland": 407,
+            "Kholusia": 502,
+            "Amh Araeng": 462,
+            "Il Mheg": 441,
+            "The Rak'tika Greatwood": 411,
+            "The Tempest": 621,
+            "Mor Dhona": 224,
+            "Old Sharlayan": 636,
+            "Labyrinthos": 704,
+            "Mare Lamentorum": 1014,
+            "Ultima Thule": 844,
+            "Elpis": 505
+        },
+        "Central Shroud": {
+            "Middle La Noscea": 403,
+            "Lower La Noscea": 386,
+            "Eastern La Noscea": 342,
+            "Western La Noscea": 415,
+            "Upper La Noscea": 366,
+            "Outer La Noscea": 345,
+            "Wolves' Den": 476,
+            "Gridania": 110,
+            "East Shroud": 126,
+            "South Shroud": 119,
+            "North Shroud": 138,
+            "Ul'dah": 324,
+            "Western Thanalan": 338,
+            "Central Thanalan": 271,
+            "Eastern Thanalan": 207,
+            "Southern Thanalan": 341,
+            "Northern Thanalan": 221,
+            "Gold Saucer": 371,
+            "Ishgard": 240,
+            "Coerthas Central Highlands": 207,
+            "Coerthas Western Highlands": 309,
+            "The Sea of Clouds": 252,
+            "Azys Lla": 275,
+            "Idyllshire": 483,
+            "The Dravanian Forelands": 371,
+            "The Churning Mists": 450,
+            "Rhalgr's Reach": 200,
+            "The Fringes": 164,
+            "The Peaks": 240,
+            "The Lochs": 234,
+            "Kugane": 847,
+            "The Ruby Sea": 812,
+            "Yanxia": 746,
+            "The Azim Steppe": 740,
+            "The Doman Enclave": 730,
+            "Radz-at-Han": 478,
+            "Thavnair": 432,
+            "Garlemald": 732,
+            "The Crystarium": 347,
+            "Eulmore": 520,
+            "Lakeland": 389,
+            "Kholusia": 485,
+            "Amh Araeng": 444,
+            "Il Mheg": 424,
+            "The Rak'tika Greatwood": 394,
+            "The Tempest": 604,
+            "Mor Dhona": 206,
+            "Old Sharlayan": 776,
+            "Labyrinthos": 801,
+            "Mare Lamentorum": 872,
+            "Ultima Thule": 941,
+            "Elpis": 487
+        },
+        "East Shroud": {
+            "Middle La Noscea": 459,
+            "Lower La Noscea": 442,
+            "Eastern La Noscea": 398,
+            "Western La Noscea": 471,
+            "Upper La Noscea": 422,
+            "Outer La Noscea": 399,
+            "Wolves' Den": 532,
+            "Gridania": 131,
+            "Central Shroud": 126,
+            "South Shroud": 170,
+            "North Shroud": 182,
+            "Ul'dah": 366,
+            "Western Thanalan": 385,
+            "Central Thanalan": 319,
+            "Eastern Thanalan": 241,
+            "Southern Thanalan": 378,
+            "Northern Thanalan": 273,
+            "Gold Saucer": 410,
+            "Ishgard": 287,
+            "Coerthas Central Highlands": 259,
+            "Coerthas Western Highlands": 359,
+            "The Sea of Clouds": 277,
+            "Azys Lla": 307,
+            "Idyllshire": 534,
+            "The Dravanian Forelands": 417,
+            "The Churning Mists": 492,
+            "Rhalgr's Reach": 156,
+            "The Fringes": 117,
+            "The Peaks": 185,
+            "The Lochs": 167,
+            "Kugane": 815,
+            "The Ruby Sea": 779,
+            "Yanxia": 712,
+            "The Azim Steppe": 707,
+            "The Doman Enclave": 694,
+            "Radz-at-Han": 417,
+            "Thavnair": 378,
+            "Garlemald": 702,
+            "The Crystarium": 403,
+            "Eulmore": 576,
+            "Lakeland": 445,
+            "Kholusia": 541,
+            "Amh Araeng": 500,
+            "Il Mheg": 480,
+            "The Rak'tika Greatwood": 450,
+            "The Tempest": 660,
+            "Mor Dhona": 262,
+            "Old Sharlayan": 798,
+            "Labyrinthos": 821,
+            "Mare Lamentorum": 842,
+            "Ultima Thule": 961,
+            "Elpis": 543
+        },
+        "South Shroud": {
+            "Middle La Noscea": 366,
+            "Lower La Noscea": 344,
+            "Eastern La Noscea": 305,
+            "Western La Noscea": 382,
+            "Upper La Noscea": 335,
+            "Outer La Noscea": 317,
+            "Wolves' Den": 439,
+            "Gridania": 154,
+            "Central Shroud": 119,
+            "East Shroud": 170,
+            "North Shroud": 150,
+            "Ul'dah": 275,
+            "Western Thanalan": 289,
+            "Central Thanalan": 221,
+            "Eastern Thanalan": 165,
+            "Southern Thanalan": 294,
+            "Northern Thanalan": 172,
+            "Gold Saucer": 323,
+            "Ishgard": 241,
+            "Coerthas Central Highlands": 195,
+            "Coerthas Western Highlands": 302,
+            "The Sea of Clouds": 277,
+            "Azys Lla": 294,
+            "Idyllshire": 472,
+            "The Dravanian Forelands": 367,
+            "The Churning Mists": 451,
+            "Rhalgr's Reach": 260,
+            "The Fringes": 224,
+            "The Peaks": 300,
+            "The Lochs": 285,
+            "Kugane": 868,
+            "The Ruby Sea": 834,
+            "Yanxia": 768,
+            "The Azim Steppe": 766,
+            "The Doman Enclave": 750,
+            "Radz-at-Han": 504,
+            "Thavnair": 452,
+            "Garlemald": 767,
+            "The Crystarium": 307,
+            "Eulmore": 479,
+            "Lakeland": 349,
+            "Kholusia": 444,
+            "Amh Araeng": 403,
+            "Il Mheg": 383,
+            "The Rak'tika Greatwood": 353,
+            "The Tempest": 563,
+            "Mor Dhona": 166,
+            "Old Sharlayan": 780,
+            "Labyrinthos": 807,
+            "Mare Lamentorum": 907,
+            "Ultima Thule": 947,
+            "Elpis": 447
+        },
+        "North Shroud": {
+            "Middle La Noscea": 358,
+            "Lower La Noscea": 350,
+            "Eastern La Noscea": 298,
+            "Western La Noscea": 364,
+            "Upper La Noscea": 315,
+            "Outer La Noscea": 290,
+            "Wolves' Den": 431,
+            "Gridania": 126,
+            "Central Shroud": 139,
+            "East Shroud": 184,
+            "South Shroud": 151,
+            "Ul'dah": 339,
+            "Western Thanalan": 343,
+            "Central Thanalan": 277,
+            "Eastern Thanalan": 245,
+            "Southern Thanalan": 363,
+            "Northern Thanalan": 216,
+            "Gold Saucer": 389,
+            "Ishgard": 163,
+            "Coerthas Central Highlands": 146,
+            "Coerthas Western Highlands": 234,
+            "The Sea of Clouds": 187,
+            "Azys Lla": 204,
+            "Idyllshire": 408,
+            "The Dravanian Forelands": 294,
+            "The Churning Mists": 373,
+            "Rhalgr's Reach": 229,
+            "The Fringes": 210,
+            "The Peaks": 277,
+            "The Lochs": 299,
+            "Kugane": 882,
+            "The Ruby Sea": 844,
+            "Yanxia": 777,
+            "The Azim Steppe": 767,
+            "The Doman Enclave": 764,
+            "Radz-at-Han": 574,
+            "Thavnair": 529,
+            "Garlemald": 739,
+            "The Crystarium": 323,
+            "Eulmore": 495,
+            "Lakeland": 365,
+            "Kholusia": 460,
+            "Amh Araeng": 420,
+            "Il Mheg": 399,
+            "The Rak'tika Greatwood": 369,
+            "The Tempest": 579,
+            "Mor Dhona": 182,
+            "Old Sharlayan": 728,
+            "Labyrinthos": 753,
+            "Mare Lamentorum": 879,
+            "Ultima Thule": 893,
+            "Elpis": 463
+        },
+        "Western Thanalan": {
+            "Middle La Noscea": 288,
+            "Lower La Noscea": 238,
+            "Eastern La Noscea": 257,
+            "Western La Noscea": 326,
+            "Upper La Noscea": 303,
+            "Outer La Noscea": 309,
+            "Wolves' Den": 337,
+            "Gridania": 371,
+            "Central Shroud": 338,
+            "East Shroud": 385,
+            "South Shroud": 289,
+            "North Shroud": 342,
+            "Ul'dah": 114,
+            "Central Thanalan": 136,
+            "Eastern Thanalan": 224,
+            "Southern Thanalan": 144,
+            "Northern Thanalan": 196,
+            "Gold Saucer": 142,
+            "Ishgard": 393,
+            "Coerthas Central Highlands": 317,
+            "Coerthas Western Highlands": 406,
+            "The Sea of Clouds": 470,
+            "Azys Lla": 467,
+            "Idyllshire": 513,
+            "The Dravanian Forelands": 463,
+            "The Churning Mists": 544,
+            "Rhalgr's Reach": 523,
+            "The Fringes": 487,
+            "The Peaks": 562,
+            "The Lochs": 533,
+            "Kugane": 962,
+            "The Ruby Sea": 937,
+            "Yanxia": 875,
+            "The Azim Steppe": 884,
+            "The Doman Enclave": 854,
+            "Radz-at-Han": 700,
+            "Thavnair": 637,
+            "Garlemald": 921,
+            "The Crystarium": 375,
+            "Eulmore": 548,
+            "Lakeland": 417,
+            "Kholusia": 513,
+            "Amh Araeng": 472,
+            "Il Mheg": 452,
+            "The Rak'tika Greatwood": 422,
+            "The Tempest": 632,
+            "Mor Dhona": 234,
+            "Old Sharlayan": 835,
+            "Labyrinthos": 870,
+            "Mare Lamentorum": 1061,
+            "Ultima Thule": 1010,
+            "Elpis": 515
+        },
+        "Eastern Thanalan": {
+            "Middle La Noscea": 372,
+            "Lower La Noscea": 336,
+            "Eastern La Noscea": 317,
+            "Western La Noscea": 399,
+            "Upper La Noscea": 358,
+            "Outer La Noscea": 347,
+            "Wolves' Den": 440,
+            "Gridania": 247,
+            "Central Shroud": 207,
+            "East Shroud": 241,
+            "South Shroud": 165,
+            "North Shroud": 244,
+            "Ul'dah": 196,
+            "Western Thanalan": 224,
+            "Central Thanalan": 167,
+            "Southern Thanalan": 206,
+            "Northern Thanalan": 163,
+            "Gold Saucer": 238,
+            "Ishgard": 330,
+            "Coerthas Central Highlands": 266,
+            "Coerthas Western Highlands": 378,
+            "The Sea of Clouds": 380,
+            "Azys Lla": 392,
+            "Idyllshire": 534,
+            "The Dravanian Forelands": 444,
+            "The Churning Mists": 530,
+            "Rhalgr's Reach": 359,
+            "The Fringes": 320,
+            "The Peaks": 392,
+            "The Lochs": 351,
+            "Kugane": 875,
+            "The Ruby Sea": 847,
+            "Yanxia": 783,
+            "The Azim Steppe": 791,
+            "The Doman Enclave": 762,
+            "Radz-at-Han": 497,
+            "Thavnair": 436,
+            "Garlemald": 823,
+            "The Crystarium": 337,
+            "Eulmore": 509,
+            "Lakeland": 379,
+            "Kholusia": 474,
+            "Amh Araeng": 434,
+            "Il Mheg": 413,
+            "The Rak'tika Greatwood": 383,
+            "The Tempest": 593,
+            "Mor Dhona": 196,
+            "Old Sharlayan": 832,
+            "Labyrinthos": 862,
+            "Mare Lamentorum": 963,
+            "Ultima Thule": 1002,
+            "Elpis": 477
+        },
+        "Southern Thanalan": {
+            "Middle La Noscea": 361,
+            "Lower La Noscea": 312,
+            "Eastern La Noscea": 326,
+            "Western La Noscea": 399,
+            "Upper La Noscea": 373,
+            "Outer La Noscea": 375,
+            "Wolves' Den": 411,
+            "Gridania": 379,
+            "Central Shroud": 341,
+            "East Shroud": 378,
+            "South Shroud": 294,
+            "North Shroud": 362,
+            "Ul'dah": 105,
+            "Western Thanalan": 144,
+            "Central Thanalan": 167,
+            "Eastern Thanalan": 206,
+            "Northern Thanalan": 226,
+            "Gold Saucer": 102,
+            "Ishgard": 436,
+            "Coerthas Central Highlands": 357,
+            "Coerthas Western Highlands": 462,
+            "The Sea of Clouds": 504,
+            "Azys Lla": 507,
+            "Idyllshire": 585,
+            "The Dravanian Forelands": 523,
+            "The Churning Mists": 607,
+            "Rhalgr's Reach": 522,
+            "The Fringes": 483,
+            "The Peaks": 555,
+            "The Lochs": 512,
+            "Kugane": 931,
+            "The Ruby Sea": 910,
+            "Yanxia": 849,
+            "The Azim Steppe": 863,
+            "The Doman Enclave": 826,
+            "Radz-at-Han": 632,
+            "Thavnair": 569,
+            "Garlemald": 919,
+            "The Crystarium": 412,
+            "Eulmore": 584,
+            "Lakeland": 454,
+            "Kholusia": 549,
+            "Amh Araeng": 508,
+            "Il Mheg": 488,
+            "The Rak'tika Greatwood": 458,
+            "The Tempest": 668,
+            "Mor Dhona": 270,
+            "Old Sharlayan": 877,
+            "Labyrinthos": 912,
+            "Mare Lamentorum": 1059,
+            "Ultima Thule": 1052,
+            "Elpis": 552
+        },
+        "Northern Thanalan": {
+            "Middle La Noscea": 281,
+            "Lower La Noscea": 250,
+            "Eastern La Noscea": 224,
+            "Western La Noscea": 306,
+            "Upper La Noscea": 264,
+            "Outer La Noscea": 254,
+            "Wolves' Den": 351,
+            "Gridania": 248,
+            "Central Shroud": 221,
+            "East Shroud": 273,
+            "South Shroud": 172,
+            "North Shroud": 214,
+            "Ul'dah": 197,
+            "Western Thanalan": 196,
+            "Central Thanalan": 132,
+            "Eastern Thanalan": 163,
+            "Southern Thanalan": 226,
+            "Gold Saucer": 248,
+            "Ishgard": 263,
+            "Coerthas Central Highlands": 200,
+            "Coerthas Western Highlands": 294,
+            "The Sea of Clouds": 334,
+            "Azys Lla": 335,
+            "Idyllshire": 437,
+            "The Dravanian Forelands": 358,
+            "The Churning Mists": 444,
+            "Rhalgr's Reach": 380,
+            "The Fringes": 346,
+            "The Peaks": 422,
+            "The Lochs": 407,
+            "Kugane": 921,
+            "The Ruby Sea": 891,
+            "Yanxia": 826,
+            "The Azim Steppe": 827,
+            "The Doman Enclave": 806,
+            "Radz-at-Han": 615,
+            "Thavnair": 556,
+            "Garlemald": 836,
+            "The Crystarium": 255,
+            "Eulmore": 427,
+            "Lakeland": 297,
+            "Kholusia": 392,
+            "Amh Araeng": 352,
+            "Il Mheg": 331,
+            "The Rak'tika Greatwood": 301,
+            "The Tempest": 511,
+            "Mor Dhona": 114,
+            "Old Sharlayan": 777,
+            "Labyrinthos": 808,
+            "Mare Lamentorum": 976,
+            "Ultima Thule": 948,
+            "Elpis": 395
+        },
+        "Coerthas Central Highlands": {
+            "Middle La Noscea": 286,
+            "Lower La Noscea": 285,
+            "Eastern La Noscea": 229,
+            "Western La Noscea": 289,
+            "Upper La Noscea": 240,
+            "Outer La Noscea": 214,
+            "Wolves' Den": 358,
+            "Gridania": 202,
+            "Central Shroud": 207,
+            "East Shroud": 259,
+            "South Shroud": 195,
+            "North Shroud": 144,
+            "Ul'dah": 326,
+            "Western Thanalan": 317,
+            "Central Thanalan": 260,
+            "Eastern Thanalan": 266,
+            "Southern Thanalan": 357,
+            "Northern Thanalan": 200,
+            "Gold Saucer": 377,
+            "Ishgard": 120,
+            "Coerthas Western Highlands": 164,
+            "The Sea of Clouds": 201,
+            "Azys Lla": 194,
+            "Idyllshire": 334,
+            "The Dravanian Forelands": 231,
+            "The Churning Mists": 315,
+            "Rhalgr's Reach": 319,
+            "The Fringes": 301,
+            "The Peaks": 366,
+            "The Lochs": 391,
+            "Kugane": 928,
+            "The Ruby Sea": 891,
+            "Yanxia": 823,
+            "The Azim Steppe": 812,
+            "The Doman Enclave": 810,
+            "Radz-at-Han": 671,
+            "Thavnair": 623,
+            "Garlemald": 781,
+            "The Crystarium": 294,
+            "Eulmore": 466,
+            "Lakeland": 336,
+            "Kholusia": 431,
+            "Amh Araeng": 390,
+            "Il Mheg": 370,
+            "The Rak'tika Greatwood": 340,
+            "The Tempest": 550,
+            "Mor Dhona": 154,
+            "Old Sharlayan": 690,
+            "Labyrinthos": 724,
+            "Mare Lamentorum": 921,
+            "Ultima Thule": 864,
+            "Elpis": 434
+        },
+        "Mor Dhona": {
+            "Middle La Noscea": 268,
+            "Lower La Noscea": 248,
+            "Eastern La Noscea": 208,
+            "Western La Noscea": 287,
+            "Upper La Noscea": 225,
+            "Wolves' Den": 341,
+            "Gridania": 226,
+            "Central Shroud": 207,
+            "East Shroud": 263,
+            "South Shroud": 167,
+            "North Shroud": 182,
+            "Ul'dah": 242,
+            "Western Thanalan": 235,
+            "Central Thanalan": 176,
+            "Eastern Thanalan": 197,
+            "Southern Thanalan": 272,
+            "Northern Thanalan": 115,
+            "Gold Saucer": 292,
+            "Ishgard": 213,
+            "Coerthas Central Highlands": 154,
+            "Coerthas Western Highlands": 244,
+            "The Sea of Clouds": 287,
+            "Azys Lla": 286,
+            "Idyllshire": 394,
+            "The Dravanian Forelands": 309,
+            "The Churning Mists": 395,
+            "Rhalgr's Reach": 355,
+            "The Fringes": 326,
+            "The Peaks": 401,
+            "The Lochs": 399,
+            "Kugane": 926,
+            "The Ruby Sea": 892,
+            "Yanxia": 826,
+            "The Azim Steppe": 823,
+            "The Doman Enclave": 810,
+            "Radz-at-Han": 635,
+            "Thavnair": 580,
+            "Garlemald": 819,
+            "The Crystarium": 210,
+            "Eulmore": 382,
+            "Lakeland": 252,
+            "Kholusia": 347,
+            "Amh Araeng": 306,
+            "Il Mheg": 286,
+            "The Rak'tika Greatwood": 256,
+            "The Tempest": 466,
+            "Old Sharlayan": 746,
+            "Labyrinthos": 777,
+            "Mare Lamentorum": 959,
+            "Ultima Thule": 917,
+            "Elpis": 350
+        }
+    }
+}
