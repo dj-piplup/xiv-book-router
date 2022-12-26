@@ -11,7 +11,7 @@ export class AppRoot {
   defaultFree = '';
   defaultHome = '';
 
-  favorites = window.localStorage.getItem('favorites')?.split('|') || [];
+  favorites = window.localStorage.getItem('favorites')?.split('|') || this.defaultFavorites;
   free = window.localStorage.getItem('freeDest') || '';
   home = window.localStorage.getItem('homeDest') || '';
 

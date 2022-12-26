@@ -1,4 +1,4 @@
-import { Component, Prop, h, State, Listen, Host } from '@stencil/core';
+import { Component, Prop, h, State, Listen, Host, Element } from '@stencil/core';
 import { FFRouter } from '../../utils/routing';
 
 
@@ -15,6 +15,7 @@ export class FFBookRouter {
   @State() router: FFRouter;
   @State() bookList: string[];
   @State() currentBook: string;
+  @Element() el: HTMLElement;
 
   @Listen('input')
   selectData(e){
@@ -34,7 +35,7 @@ export class FFBookRouter {
       window.localStorage.setItem('homeDest',this.home)
     }
     else if(inputElement.classList.contains('favoriteSelect')){
-      const elements = document.querySelectorAll('.favoriteSelect');
+      const elements = inputElement.parentElement.querySelectorAll('.favoriteSelect');
       let changed = false;
       let newFavorites = [];
       elements.forEach((input:HTMLSelectElement) =>{
