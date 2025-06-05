@@ -19,15 +19,14 @@
     "loader/"
   ],
   "scripts": {
-    "build": "stencil build --docs",
+    "build": "stencil build",
     "start": "stencil build --dev --watch --serve",
     "test": "stencil test --spec --e2e",
     "test.watch": "stencil test --spec --e2e --watchAll",
     "generate": "stencil generate"
   },
   "dependencies": {
-    "@stencil/core": "^2.13.0",
-    "firebase": "^9.15.0"
+    "@stencil/core": "^2.13.0"
   },
   "devDependencies": {
     "@types/jest": "^27.0.3",
